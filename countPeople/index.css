@@ -84,15 +84,3 @@ nav{
     margin-bottom: 0;
 
 }
-.nav-links{
-    display: flex;
-}
-
-nav a{
-    text-transform:uppercase;
-    font-weight:700;
-    font-size: 1rem;
-    color: #fff;
-    letter-spacing: 0.1rem;
-    margin-right: 1rem;
-}
